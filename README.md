@@ -35,10 +35,17 @@ aquamarine
 ```
 ## 使用方法
 1. Python3をダウンロード(https://www.python.org/downloads/)
-2. ソースコードをダウンロード
-3. ライブラリをインストール
-```pip3 install requirements.txt```
-4. 実行
-```python3 -u axfc_try_system.py```
-5. URLを入力
-```Axfc DL URLを入力してください : https://hoge.axfc.net/d/fuga/piyo.rar```
+2. Gitをインストール(https://www.git-scm.com/downloads)
+3. ソースコードをダウンロード
+```
+git clone https://github.com/stsaria/AxfcTrySystem.git
+```
+4. ライブラリをインストール
+```
+pip3 install requirements.txt
+```
+5. axfc_try_system.pyを実行
+```
+python3 -u axfc_try_system.py
+Axfc DL URLを入力してください : https://hoge.axfc.net/d/fuga/piyo.rar
+```
