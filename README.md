@@ -1,6 +1,6 @@
 # Axfc Try System
 ## 概要
-現在Axfcでは特定のサブドメイン(https://サブドメイン.axfc.net)でしかダウンロードできない時があります。
+現在Axfcでは特定のサブドメイン(https://サブドメイン.axfc.net) でしかダウンロードできない時があります。
 
 Axfc Try SystemではAxfcのサブドメインをすべて試すというシステムです。
 
