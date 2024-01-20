@@ -42,7 +42,7 @@ git clone https://github.com/stsaria/AxfcTrySystem.git
 ```
 4. ライブラリをインストール
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 5. axfc_try_system.pyを実行
 ```
